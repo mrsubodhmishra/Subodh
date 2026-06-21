@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" width="600" height="450">
+  <defs>
+    <linearGradient id="sky2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#9DBFC9"/>
+      <stop offset="60%" stop-color="#C9DDE2"/>
+      <stop offset="100%" stop-color="#2E5560"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="450" fill="url(#sky2)"/>
+  <polygon points="0,260 180,150 320,240 480,130 600,230 600,450 0,450" fill="#4A6B75" opacity="0.7"/>
+  <rect y="350" width="600" height="100" fill="#2E5560" opacity="0.55"/>
+  <ellipse cx="300" cy="390" rx="280" ry="18" fill="#1F3E47" opacity="0.4"/>
+  <text x="300" y="420" font-family="Georgia, serif" font-size="20" fill="#fff" text-anchor="middle" opacity="0.85">RARA LAKE — MUGU</text>
+</svg>
